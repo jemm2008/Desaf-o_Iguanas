@@ -1,0 +1,93 @@
+body {
+    margin: 0%;
+    margin-bottom: -20px;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    background-color: #000000;
+}
+
+header h1 {
+    margin: 0%;
+    padding: 0.3%;
+    text-align: center;
+    font-weight: 500;
+    font-size: 3rem;
+}
+
+#desc {
+    padding: 3% 12%;
+}
+
+.desc-section {
+    width: 49%;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 1.05rem;
+    font-weight: 300;
+}
+
+div.desc-section img {
+    display: block;
+    margin-left: auto;
+    margin-right: 0%;
+    width: 80%;
+}
+
+#icons{
+    margin: 0%;
+    padding: 0% 20%;
+    background-color: #1E1A13;
+}
+
+h2 {
+    padding: 7% 0% 3% 0%;
+    text-align: center;
+    font-weight: 500;
+    font-size: 2.5rem;
+}
+
+.icons-section{
+    display: inline-block;
+    width: 32.75%;
+    text-align: center;
+    font-weight: 300;
+    font-size: 1.65rem;
+    margin-bottom: 5%;
+}
+
+div.icons-section i {
+    font-size: 3rem;
+}
+
+#photos {
+    padding: 5% 11%;
+}
+
+.phot-section {
+    display: inline-block;
+    padding: 0% 0%;
+    height: 202px;
+    width: 32%;
+}
+
+img.phot-section:nth-child(2) {
+    margin: 0px 11px;
+}
+
+footer {
+    background-color: #1E1A13;
+}
+
+footer p {
+    width: 50%;
+    padding: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.22rem;
+    font-weight: 300;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
